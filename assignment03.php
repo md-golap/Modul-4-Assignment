@@ -25,7 +25,7 @@ class Product {
 
 
 // Creating a Product instance
-$product1 = new Product(1, "Widget A", 19.99);
+$product1 = new Product(1, "T-shirt", 19.99);
 
 // Displaying product details
 $product1->showDetails();
